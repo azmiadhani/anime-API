@@ -1,5 +1,5 @@
 <h1>anime API </h1>
-#for learning perposes.
+# for learning perposes.
 
 
 ## How to Install
@@ -16,5 +16,5 @@ npm start
 ## Author
 👤 "Laurentsius Alang"
 
-##Support as well Thanks. 
+## Support as well Thanks. 
 ⭐️ If you Enjoyed.
