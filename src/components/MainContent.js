@@ -1,5 +1,5 @@
-import React from 'react';
-import AnimeCard from './AnimeCard';
+import React from "react";
+import AnimeCard from "./AnimeCard";
 
 function MainContent(props) {
   return (
