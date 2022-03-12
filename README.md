@@ -1,5 +1,7 @@
 <h1>anime API </h1>
-# for learning perposes.
+<p> for learning perposes
+  Still learning to use React.
+  </p>
 
 
 ## How to Install
